@@ -1,1 +1,0 @@
-# ajaypanyala.github.io
