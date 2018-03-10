@@ -1,21 +1,25 @@
 Ajay Panyala
 ============
 
-> **Scientist**  
-> High Performance Computing Group  
-> Pacific Northwest National Lab  
-> Email: ajay.panyala (at) pnnl.gov  
+**Scientist**  
+High Performance Computing Group  
+Pacific Northwest National Lab  
+Email: ajay.panyala (at) pnnl.gov     
+
+Software: [GitHub](https://github.com/ajaypanyala)     
+Publications: [DBLP](http://dblp.uni-trier.de/pers/hd/p/Panyala:Ajay) | [Google Scholar](https://scholar.google.com/citations?user=ffzua2EAAAAJ&hl=en) | [Research Gate](http://www.researchgate.net/profile/Ajay_Panyala)
+
 
 
  Research Interests
 -------------------------------
-> Compiler optimizations and programming models for High Performance and Parallel Computing. Source-to-source program transformations and analysis, out-of-core algorithms, loop transformations, data layout, power/energy optimizations for modern HPC architectures.
+Compiler optimizations and programming models for High Performance and Parallel Computing. Source-to-source program transformations and analysis, out-of-core algorithms, loop transformations, data layout, power/energy optimizations for modern HPC architectures.
 
  Education
 -------------------------------
 **Louisiana State University, Baton Rouge**      
 Ph.D., Computer Science (Aug 2007 - Aug 2014)       
-Advisors: Dr. Gerald Baumgartner, Dr. J. Ramanujam  
+Advisors: [Dr. Gerald Baumgartner](http://www.csc.lsu.edu/~gb/), [Dr. J. Ramanujam](http://www.ece.lsu.edu/jxr/jxr.html) 
 
 **Jawaharlal Nehru Technological University, Hyderabad, India**   
 B.Tech., Computer Science (Aug 2003 - May 2007)
