@@ -1,0 +1,8 @@
+title: ajaypanyala.github.io
+description: Home Page
+google_analytics: 
+theme: jekyll-theme-minimal
+github_username: ajaypanyala
+
+gems:
+  - jekyll-mentions
