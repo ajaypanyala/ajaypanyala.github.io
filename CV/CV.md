@@ -14,7 +14,7 @@ Compiler optimizations and programming models for High Performance and Parallel 
  Education
 -------------------------------
 **Louisiana State University, Baton Rouge**      
-Ph.D., Computer Science (Aug 2007 - Aug 2014)       
+Ph.D., Computer Science (Aug 2007 - Aug 2014)       
 Advisors: [Dr. Gerald Baumgartner](http://www.csc.lsu.edu/~gb/), [Dr. J. Ramanujam](http://www.ece.lsu.edu/jxr/jxr.html) 
 
 **Jawaharlal Nehru Technological University, Hyderabad, India**   
@@ -24,12 +24,12 @@ B.Tech., Computer Science (Aug 2003 - May 2007)
 Professional Experience
 -------------------------------
 **Pacific Northwest National Lab**   
-Scientist (Mar 2018 - present)          
+Scientist (Mar 2018 - present)          
 High Performance Computing Group
 
 
 **Pacific Northwest National Lab**   
-Post Doctorate Research Associate (Oct 2014 - Dec 2017)          
+Post Doctorate Research Associate (Oct 2014 - Dec 2017)          
 High Performance Computing Group
 
 
@@ -50,6 +50,22 @@ Journal of Parallel Computing (PARCO), March 2015.
 
 Conference Publications
 -----------------------
+
+1. **A code generator for high-performance tensor contractions on GPUs.**   
+Jinsung Kim, Aravind Sukumaran-Rajam, Vineeth Thumma, Sriram Krishnamoorthy, Ajay Panyala, Louis-Noël Pouchet, Atanas Rountev, P Sadayappan.  
+IEEE/ACM International Symposium on Code Generation and Optimization (CGO) 2019.
+
+1. **HPC Software Verification in Action: A Case Study with Tensor Transposition.**  
+Erdal Mutlu, Ajay Panyala, Sriram Krishnamoorthy.  
+IEEE/ACM 2nd International Workshop on Software Correctness for HPC Applications 2018.
+
+1. **Optimizing Tensor Contractions in CCSD (T) for Efficient Execution on GPUs.**   
+Jinsung Kim, Aravind Sukumaran-Rajam, Changwan Hong, Ajay Panyala, Rohit Kumar Srivastava, Sriram Krishnamoorthy, P Sadayappan.  
+International Conference on Supercomputing (ICS) 2018.
+
+1. **TTLG-An Efficient Tensor Transposition Library for GPUs.**  
+Jyothi Vedurada, Arjun Suresh, Aravind Sukumaran Rajam, Jinsung Kim, Changwan Hong, Ajay Panyala, Sriram Krishnamoorthy, V Krishna Nandivada, Rohit Kumar Srivastava, P Sadayappan.  
+IEEE International Parallel and Distributed Processing Symposium (IPDPS) 2018.
 
 1. **Approximate Computing Techniques for Iterative Graph Algorithms.**     
 Ajay Panyala, Omer Subasi, Mahantesh Halappanavar, Ananth Kalyanaraman, Daniel Chavarrı́a-Miranda, Sriram Krishnamoorthy.     
