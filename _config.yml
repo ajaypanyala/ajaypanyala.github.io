@@ -6,9 +6,14 @@ minimal_mistakes_skin    : "contrast"
 
 github_username: ajaypanyala
 
+include: ["_pages"]
+
 plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+
+include:
+  - _pages
