@@ -1,8 +1,14 @@
 title: ajaypanyala.github.io
 description: Home Page
 google_analytics: 
-theme: jekyll-theme-minimal
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "default"
+
 github_username: ajaypanyala
 
-gems:
-  - jekyll-mentions
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
