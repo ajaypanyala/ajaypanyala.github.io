@@ -1,4 +1,4 @@
-title: ajaypanyala.github.io
+title: Ajay Panyala
 description: Home Page
 google_analytics: 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
@@ -7,6 +7,16 @@ minimal_mistakes_skin    : "contrast"
 github_username: ajaypanyala
 
 include: ["_pages"]
+
+breadcrumbs              : true
+search                   : true
+search_full_content      : # true, false (default)
+search_provider          : lunr
+lunr:
+  search_within_pages    : true
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 
 plugins:
   - jekyll-sitemap
@@ -18,9 +28,11 @@ plugins:
 include:
   - _pages
 
+# Outputting
+permalink: /:categories/:title/
+
 # Defaults
 defaults:
-
   # _pages
   - scope:
       path: ""
