@@ -2,7 +2,7 @@ title: ajaypanyala.github.io
 description: Home Page
 google_analytics: 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default"
+minimal_mistakes_skin    : "contrast"
 
 github_username: ajaypanyala
 
