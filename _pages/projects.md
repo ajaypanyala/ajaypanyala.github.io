@@ -1,6 +1,5 @@
 ---
 title: "Active Projects"
-layout: splash
 permalink: /projects/
 ---
 
