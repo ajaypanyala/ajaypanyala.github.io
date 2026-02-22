@@ -1,12 +1,16 @@
 **Ajay Panyala**  
 **Computer Scientist**  
-High Performance Computing Group  
+Future Computing Technologies Group  
 Advanced Computing, Mathematics, and Data (ACMD) Division  
 Pacific Northwest National Laboratory  
-Email: [ajay.panyala@pnnl.gov](mailto:ajay.panyala@pnnl.gov)   
+Email: ajay.panyala (at) pnnl.gov   
+[Github](https://github.com/ajaypanyala),
+[Google Scholar](https://scholar.google.com/citations?user=cGLVSUoAAAAJ&hl=en), 
+[ORCID](https://orcid.org/0000-0002-0846-3347)
 
 **Other pages:** [PNNL](https://www.pnnl.gov/people/ajay-panyala), [LinkedIn](https://www.linkedin.com/in/ajaypanyala)
 
-**Publications:** [Google Scholar](https://scholar.google.com/citations?user=cGLVSUoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-0846-3347), [Research Gate](http://www.researchgate.net/profile/Ajay_Panyala), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Panyala:Ajay)
+
+
 
   
